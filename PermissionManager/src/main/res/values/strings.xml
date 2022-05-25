@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_permission_title">permission_title</string>
+    <string name="dialog_permission_default_message">permission_default_message</string>
+    <string name="dialog_permission_button_positive">ok</string>
+</resources>
